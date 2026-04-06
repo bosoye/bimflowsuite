@@ -1,8 +1,3 @@
-![CI](https://github.com/Nnamdi-Oniya/bimflowsuite/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![Django](https://img.shields.io/badge/django-5.2-green)
-
 # BIMFlow Suite - Cloud-Native BIM Automation Platform
 > Cloud-native BIM automation and compliance platform for scalable IFC generation, validation, and analytics.
 
@@ -974,10 +969,6 @@ DJANGO_SETTINGS_MODULE=config.settings.development python manage.py runserver
 - **React Documentation**: https://react.dev
 - **Vite Documentation**: https://vitejs.dev
 - **Architecture Diagrams**: See [architecture_diagram.md](architecture_diagram.md)
-
-## License
-
-BIMFlow Suite is released under the [MIT License](LICENSE).
 
 ## Support & Community
 
